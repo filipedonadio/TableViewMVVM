@@ -1,0 +1,39 @@
+{
+    "data": {
+        "id": 1,
+        "fullName": "Geralt of Rivia",
+        "pictureUrl": "geralt",
+        "email": "geralt@me.com",
+        "about": "...if I'm to choose between one evil and another, then I prefer not to choose at all.",
+        "friends": [
+            {
+                "name": "Yennefer of Vengerberg",
+                "pictureUrl": "yennefer"
+            },
+            {
+                "name": "Julian Alfred Pankratz",
+                "pictureUrl": "dandelion"
+            },
+            {
+                "name": "Cirilla Fiona Elen Riannon",
+                "pictureUrl": "ciri"
+            }
+        ],
+        "profileAttributes": [
+            {
+                "key": "Date of birth",
+                "value": "Unkown"
+            },
+            {
+                "key": "Gender",
+                "value": "male"
+            },
+            {
+                "key": "Height",
+                "value": "190"
+            }
+        ]
+    },
+    "error": 0,
+    "message": "Success"
+}
